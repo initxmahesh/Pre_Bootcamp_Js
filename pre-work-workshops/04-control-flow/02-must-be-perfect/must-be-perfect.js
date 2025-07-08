@@ -1,7 +1,7 @@
 // let word = 'carrots';
-// let word = 'pacific';
+let word = 'pacific';
 // let word = 'perfecto';
-let word = 'perfect';
+// let word = 'perfect';
 
 
 let lastWord;
