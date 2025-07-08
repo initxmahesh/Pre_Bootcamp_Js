@@ -4,4 +4,4 @@ let num3 = 779;
 
 // YOUR CODE BELOW
 
-let myFavoriteNum = 19;
+let myFirstSum = num1 + num2 + num3;
