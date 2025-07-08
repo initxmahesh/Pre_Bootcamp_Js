@@ -1,2 +1,6 @@
 // YOUR CODE BELOW
-myFirstName = "initxmahesh";
+let myFirstName = "initxmahesh";
+
+let myFavoriteNum = 19;
+
+let havingFun = true;
