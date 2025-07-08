@@ -8,7 +8,7 @@ function myMnemonic(str1, str2, str3, str4) {
     else if (str1 && str2)
         return str1[0] + str2[0];
     else
-        return 'string';
+        return '';
 }
 
 console.log(myMnemonic("We", "Eat"));
