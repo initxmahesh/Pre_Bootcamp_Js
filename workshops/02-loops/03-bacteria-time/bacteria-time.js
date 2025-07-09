@@ -1,6 +1,5 @@
 // YOUR CODE BELOW
 function bacteriaTime(currentNum, targetNum) {
-    debugger;
   let time = 0;
   if (targetNum < currentNum) return "targetNum must be larger than currentNum";
   else {
@@ -11,4 +10,3 @@ function bacteriaTime(currentNum, targetNum) {
   return time;
 }
 
-bacteriaTime(1,8)
