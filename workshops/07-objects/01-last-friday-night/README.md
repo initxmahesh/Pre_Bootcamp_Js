@@ -26,5 +26,5 @@ let transactions = [
   }
 ];
 
-sumTransactions(transactions) // => 10512
+lastFridayNight(transactions) // => 10512
 ```
