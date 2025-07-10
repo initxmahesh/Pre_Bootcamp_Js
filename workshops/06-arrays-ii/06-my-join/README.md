@@ -5,7 +5,7 @@ Define a function, `myJoin`, that accepts up to two arguments:
   2. separator (string, optional)
 
 `myJoin` should return a string with all of the elements from the array joined
-togther. The separator should separate the joined elements:
+together. The separator should separate the joined elements:
 
 ```javascript
 myJoin(['let\'s', 'make', 'a', 'list'], ' '); // => "let's make  a list"
