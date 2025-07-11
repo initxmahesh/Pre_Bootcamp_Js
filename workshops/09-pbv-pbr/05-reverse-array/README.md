@@ -1,7 +1,7 @@
 ### Reverse Array
 
 Write a function that accepts an array and reverses that array in place. The
-behavior should mimic the behavior of the native .reverse() array method.
+function should mimic the behavior of the native .reverse() array method.
 However, your reverse function should accept the array to operate on as an
 argument, rather than being invoked as a method on that array.
 
